@@ -1,0 +1,2 @@
+1. The bug is that the numbers are being inputed as String types and as we learned earlier using + operator on two strings causes string concatenation rather than addition.
+2. The fix would be to convert the input of String type to numbers by wrapping the variables with Number().
